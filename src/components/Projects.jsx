@@ -16,7 +16,7 @@ const Projects = () => {
     {
       title: "Portfolio",
       description: "Personal portfolio using React.",
-      link: "https://your-todo-app-link.com",
+      link: "https://portfolio-js3ru12j6-manasas-projects-92167049.vercel.app/",
     },
   ];
 
