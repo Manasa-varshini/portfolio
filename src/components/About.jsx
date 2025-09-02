@@ -28,7 +28,7 @@ const About = () => {
           I love creating responsive and user-friendly applications using modern web technologies.
         </p>
         <a
-          href="/Manasa resume.pdf"
+          href="/Manasavarshini G D Resume.pdf"
           download
           className="px-6 py-3 bg-black rounded-full shadow hover:bg-gray-700 transition"
         >

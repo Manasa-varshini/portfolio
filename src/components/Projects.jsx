@@ -6,17 +6,22 @@ const Projects = () => {
     {
       title: "Notes App",
       description: "A simple notes app using HTML, CSS, JS.",
-      link: "https://notes-app-w8lw-1xiyo34pk-manasas-projects-92167049.vercel.app/",
+      link: "https://notes-app-9ec5.vercel.app/",
     },
     {
       title: "MERN Text-to-Image Converter",
       description: "AI-powered image generator with authentication.",
-      link: "https://imagify-frontend-etio.vercel.app/",
+      link: "https://imagify-frontend-c46z.vercel.app/",
     },
     {
       title: "Portfolio",
       description: "Personal portfolio using React.",
-      link: "https://portfolio-js3ru12j6-manasas-projects-92167049.vercel.app/",
+      link: "https://portfolio-fqrh.vercel.app/",
+    },
+    {
+      title: "DeepGynScan",
+      description: "A deep learning-based healthcare project that analyzes colposcopy images to detect precancerous and cancerous cervical lesions, enabling early diagnosis and better treatment outcomes.",
+      link: "https://deepgynscan-frontend.onrender.com/",
     },
   ];
 
